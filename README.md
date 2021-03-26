@@ -1,0 +1,2 @@
+# 2018.Adaboost-CART.predicting-elastic-modulus-recycled-aggregate-concrete
+The problem of predicting the modulus of elasticity of recycled aggregate concrete, which is solved in Articles https://doi.org/10.1016/j.asoc.2017.12.030 and https://doi.org/10.1016/j.jclepro.2017.11.186 by methods ANN, SVR, RBFNN, fuzzy TSK, GP, ABCP, and BBP; is solved in this project by method AdaBoost-CART (based on article https://doi.org/10.1016/j.conbuildmat.2019.117000).
